@@ -17,3 +17,13 @@ The system uses a custom-trained YOLO model for knife detection and YOLOv8 for p
 - 📸 Automatic snapshot capture of detected events
 - 📝 Event logging with timestamps
 - 💾 Automatic saving of restricted zone coordinates
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Core programming language |
+| OpenCV | Image processing and video streaming |
+| YOLOv8 | Person detection |
+| Custom YOLO Model | Knife detection |
+| NumPy | Numerical operations |
+| IP Webcam | Live camera streaming from mobile device |
