@@ -1,5 +1,9 @@
 # 🛡️ Real-Time Weapon Detection & Restricted Zone Intrusion Monitoring
-
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 An AI-powered smart surveillance system that detects knives and monitors restricted zones in real time using **YOLOv8**, **OpenCV**, and **Python**.
 ## 📌 Project Overview
 
