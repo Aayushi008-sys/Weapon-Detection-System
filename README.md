@@ -85,3 +85,11 @@ python main.py
 | 🔪 Knife Detected | A knife is detected in the camera frame. |
 | 🚧 Intrusion | A person enters the restricted zone. |
 | 🚨 Critical Alert | A person carrying a knife enters the restricted zone. |
+## 📸 Screenshots
+
+Screenshots will be added soon, demonstrating:
+
+- Normal surveillance
+- Knife detection
+- Restricted zone intrusion
+- Critical alert generation
