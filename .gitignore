@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated output
+output/
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
