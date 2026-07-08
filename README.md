@@ -27,3 +27,18 @@ The system uses a custom-trained YOLO model for knife detection and YOLOv8 for p
 | Custom YOLO Model | Knife detection |
 | NumPy | Numerical operations |
 | IP Webcam | Live camera streaming from mobile device |
+## 📂 Project Structure
+
+```text
+Weapon-Detection-System/
+│
+├── detector.py          # Weapon and person detection models
+├── main.py              # Main application
+├── utils.py             # Utility functions
+├── weights/             # YOLO model weights
+├── videos/              # Sample input videos
+├── output/              # Saved snapshots and logs
+├── requirements.txt     # Project dependencies
+├── README.md            # Project documentation
+└── .gitignore           # Ignored files
+```
