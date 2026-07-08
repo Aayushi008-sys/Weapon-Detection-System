@@ -78,3 +78,10 @@ python main.py
    - Draw the restricted zone by selecting four points.
    - The selected zone is automatically saved.
    - On future runs, the saved zone is loaded automatically.
+## 🚨 Alert Types
+
+| Alert | Description |
+|-------|-------------|
+| 🔪 Knife Detected | A knife is detected in the camera frame. |
+| 🚧 Intrusion | A person enters the restricted zone. |
+| 🚨 Critical Alert | A person carrying a knife enters the restricted zone. |
