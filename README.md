@@ -42,3 +42,22 @@ Weapon-Detection-System/
 ├── README.md            # Project documentation
 └── .gitignore           # Ignored files
 ```
+## ⚙️ Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Aayushi008-sys/Weapon-Detection-System.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd Weapon-Detection-System
+```
+
+### 3. Install the required libraries
+
+```bash
+pip install -r requirements.txt
+```
