@@ -61,3 +61,20 @@ cd Weapon-Detection-System
 ```bash
 pip install -r requirements.txt
 ```
+## ▶️ How to Run
+
+1. Install the **IP Webcam** app on your Android phone.
+2. Connect your laptop and phone to the same Wi-Fi network.
+3. Start the IP Webcam server.
+4. Copy the video streaming URL.
+5. Replace the `VIDEO_PATH` in `main.py` with your IP Webcam URL.
+6. Run the project:
+
+```bash
+python main.py
+```
+
+7. When the application starts for the first time:
+   - Draw the restricted zone by selecting four points.
+   - The selected zone is automatically saved.
+   - On future runs, the saved zone is loaded automatically.
